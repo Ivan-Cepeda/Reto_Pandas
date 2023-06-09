@@ -1,5 +1,5 @@
 
-En este reto, vamos a utilizar la librería Pandas y si crees necesario Numpy en algún ejercicio, conjuntamente con en el lenguaje de programación Python, la idea es que puedan manipular un conjunto de datos con valores reales de un supermercado. El objetivo es poner a prueba los conocimientos de Python, análisis, búsqueda en la documentación y el trabajo colaborativo. Para ello, vamos a realizar las siguientes tareas:
+En este reto, vamos a utilizar la librería Pandas y si crees necesario Numpy en algún ejercicio, conjuntamente el lenguaje de programación Python, la idea es que puedan manipular un conjunto de datos con valores reales de un supermercado. El objetivo es poner a prueba los conocimientos de Python, análisis, búsqueda en la documentación y el trabajo colaborativo. Para ello, vamos a realizar las siguientes tareas:
 
 - Importar la librería pandas y leer el archivo CSV que contiene los datos del supermercado.
 - Explorar los datos y obtener información básica como el número de filas y columnas, los nombres de las variables, los tipos de datos, para así abordar cada desafío.
