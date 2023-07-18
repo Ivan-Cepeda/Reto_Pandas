@@ -18,11 +18,11 @@ Si al finalizar el reto tiene sugerencias para mejorar y agregar, ya saben como 
 
 ## Material de práctica adicional:
 ### Pandas:
-[Series](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20Series%20exercises.ipynb)
-[Dataframe](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20DataFrames%20exercises.ipynb)
-[CSV y Plot](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20-%20Reading%20CSV%20and%20Basic%20Plotting.ipynb)
+-[Series](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20Series%20exercises.ipynb)
+-[Dataframe](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20DataFrames%20exercises.ipynb)
+-[CSV y Plot](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/Pandas%20-%20Reading%20CSV%20and%20Basic%20Plotting.ipynb)
 ### Numpy:
-[Numpy X]
+[Numpy X](https://github.com/Ivan-Cepeda/Reto_Pandas/blob/main/NumPy%20exercises.ipynb)
 
 # Mucho éxito en tu camino!!
 
